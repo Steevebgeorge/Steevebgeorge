@@ -1,4 +1,3 @@
-![Banner](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Steeve B George</h1>
 <h3 align="center">A passionate frontend developer from India, Kerala </h3>
