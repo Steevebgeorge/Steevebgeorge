@@ -11,12 +11,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 🚀 Projects:
-- 🏨 [Hotel Rent App](https://github.com/steevebgeorge/hotel_rent_app) - A hotel rental Flutter application with Firebase backend and BLoC for state management.
-- 📸 [FrameFlic](https://github.com/steevebgeorge/frameflic) - A photography portfolio app built with Flutter.
-- 💬 [Telegram Bot](https://github.com/steevebgeorge/telegram_bot) - A bot with custom command features for quick replies and automations.
+- 🏨 [Hotel Rent App](https://github.com/Steevebgeorge/rent-app) - A hotel rental Flutter application with Firebase backend and BLoC for state management.
+- 📸 [FrameFlic](https://github.com/Steevebgeorge/instagram-project) - A photography portfolio app built with Flutter.
+- 💬 [Telegram Bot](https://t.me/Cinemacompanyfilebot) - A bot with custom features.
 
 # 📄 Resume
-[![Resume](https://img.shields.io/badge/View%20My%20Resume-orange?style=for-the-badge)]()
+[![Resume](https://img.shields.io/badge/View%20My%20Resume-orange?style=for-the-badge)](https://drive.google.com/drive/folders/1c4Oh40Gay5GoHo_QUnv0sHmsJjW38utA?usp=sharing)
 
 # 🌐 Portfolio
 [steevebgeorge.netlify.app](https://steevebgeorge.netlify.app)
