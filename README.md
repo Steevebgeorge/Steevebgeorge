@@ -1,24 +1,84 @@
-# 💫 About Me:
-🔭 I’m currently working on Flutter app development<br>🌱 I’m currently learning bloc and offline storage methods<br>
+
+
+
+![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+
+
+## 💫 About Me:
+- 🔭 I’m currently working as a **Flutter Developer.**
+- 🌱 I’m currently learning **Web Development and MongoDB.**
+- 💬 Ask me about **Flutter and Tech Stuff.**
+- 📫 How to reach me **Check my Social links below.**
+
+
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.steeve_._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/steeve-b-george) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:steevebgeorge@gmail.com) 
+<div align="left">
+  <a href="https://www.linkedin.com/in/steeve-b-george" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  
+    
+  <a href="https://instagram.com/_.steeve_._" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+   
+   <a href="https://youtube.com/@SteeveBGeorge" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /></a>
+  
+ <a href="mailto:steevebgeorge@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+</a>
 
-# 🚀 Projects:
-- 🏨 [Hotel Rent App](https://github.com/Steevebgeorge/rent-app) - A hotel rental Flutter application with Firebase backend and BLoC for state management.
-- 📸 [FrameFlic](https://github.com/Steevebgeorge/instagram-project) - A photography portfolio app built with Flutter.
-- 💬 [Telegram Bot](https://t.me/Cinemacompanyfilebot) - A bot with custom features.
+  
+   <a href="https://discord.com/channels/@steeve5518" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
+  
+  
+  
+ 
+</div>
 
-# 📄 Resume
-[![Resume](https://img.shields.io/badge/View%20My%20Resume-orange?style=for-the-badge)](https://drive.google.com/drive/folders/1c4Oh40Gay5GoHo_QUnv0sHmsJjW38utA?usp=sharing)
 
-# 🌐 Portfolio
-[steevebgeorge.netlify.app](https://steevebgeorge.netlify.app)
+## 💻 Tech Stack:
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,firebase,supabase,fastapi,postman,tensorflow,photoshop,xd,figma,wordpress,vscode,androidstudio,git,github,gitlab,githubactions,cloudflare,vercel,windows,apple,linux,ubuntu&theme=dark" />
+<!--     <img width="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png"/> -->
+  </a> 
+</div> 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashx58&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashx58&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+
+<!--## 🐍 GitHub Contributions:
+![snake gif](https://github.com/aakashx58/aakashx58/blob/output/github-contribution-grid-snake.svg)-->
+<!--<div align="center">
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Bishalmoktan/Bishalmoktan/output/github-contribution-grid-snake.svg" />
+</div>-->
+
+
+<!--## 📅 Isometric commit calendar:
+  <td  align="center">
+        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>-->
+
+---
+[![](https://visitcount.itsvg.in/api?id=aakashx58&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
+<div align="center">
+  Show some ❤️ by starring some of the repositories!
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/aakashx58?tab=repositories" title="Show Repositories">... See More</a>
+</div>
